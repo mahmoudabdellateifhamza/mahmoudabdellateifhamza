@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/3RRLxYd/coder-banner.gif" alt="Coding Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/images/dev-laptop.png" alt="Developer Illustration" width="300"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mahmoud Abdellateif Hamza</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Abdellateif</h1>
 <h3 align="center">🚀 IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer</h3>
 
 ---
@@ -77,7 +77,14 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
 ## 📫 Connect with Me
 <p align="center">
@@ -95,6 +102,7 @@
 ---
 
 ⭐ *“Transforming data into insights one dashboard at a time.”*
+
 
 <!--
 **mahmoudabdellateifhamza/mahmoudabdellateifhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
