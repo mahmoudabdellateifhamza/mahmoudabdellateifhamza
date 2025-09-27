@@ -9,48 +9,71 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Studying **Information Technology @ AITU (2024 – 2028)**  
-- 🔐 Passionate about **Cybersecurity, Networking, and Data Analysis**  
-- 📊 Skilled in **Power BI, Excel, SQL** & building dashboards  
-- 🌐 Full-Stack Web Developer (**HTML, CSS, JS, PHP, MySQL, C#**)  
-- 🚀 Currently training with **Digital Egypt Pioneers (DEPI)**  
-- 💡 Motto: *"Always learning, always building, always growing."*  
+- 🎓 Studying **Information Technology @ AITU (2024 – 2028)**
+- 🔐 Passionate about **Cybersecurity, Networking, and Data Analysis**
+- 📊 Skilled in **Excel, Power BI, SQL, Data Cleaning & Dashboards**
+- 🌐 Full-Stack Web Developer (**HTML, CSS, JS, PHP, MySQL, C#**)
+- 🚀 Training with **Digital Egypt Pioneers (DEPI)** in the Data Analysis track
+- 💡 Motto: *"Always learning, always building, always growing."*
 
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,cs,git,github,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,csharp,git,github,py" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,azure,vscode,figma,powershell" />
+  <img src="https://skillicons.dev/icons?i=excel,powerbi,sql,linux,azure,vscode" />
 </p>
 
 ---
 
-## 📂 Featured Projects
-- 🌟 **Life Share Donation System** → Full-stack donation web app *(Team Leader)*  
-- 🍫 **Chocolate Sales Dashboard** → Excel KPI & trend analytics  
-- 📺 **Wednesday Dashboard** → Netflix-inspired Power BI visualization  
-- 🏋️ **Fitness Tracker** → Interactive activity dashboard  
-- ⚽ **Football Performance (Man City)** → Sports analytics with Power BI  
-- 🏍️ **MotoGP Analysis** → Strategic race insights  
+## 📂 Featured Projects  
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌟 **Life Share Donation System** | Full-stack web app for Sedra Association enabling donations of unused devices, clothes & accessories. Led a 6-member team, designed ERD & integrated database. | HTML, CSS, JS, Bootstrap, PHP, MySQL |
+| 🍫 **Chocolate Sales Dashboard** | Interactive Excel dashboard analyzing sales data: KPIs, regional trends, order status. | Excel (Pivot Tables, Charts, Data Cleaning) |
+| 📺 **Wednesday Dashboard** | Power BI dashboard analyzing Netflix's “Wednesday” series: character screen time, episode performance, timelines. | Power BI |
+| 🏋️ **Fitness Tracker Dashboard** | Interactive dashboard to analyze fitness activities, key metrics, and mood trends. | Power BI |
+| ⚽ **Football Performance Dashboard** | Analytics for Manchester City’s 2024/25 season: win rates, scoring trends, squad composition. | Power BI |
+| 🏍️ **MotoGP Analysis Dashboard** | Dashboard analyzing MotoGP championship data: performance metrics & strategic insights. | Power BI |
 
 ---
 
 ## 🎓 Certifications
-- 🛡️ **Cisco** → CCNA, Junior Cybersecurity Analyst, Cybersecurity Fundamentals  
-- 🤖 **AI** → IBM AI Fundamentals, ALX AI Starter Kit  
-- 📊 **DataCamp** → Intro to Excel, Intro to Statistics  
-- 🌐 **Front-End Web Development** → Innovation Mastermind  
-- 🖥️ **Virtualization** → Silicon Oasis Smart Village  
+- 🛡️ **Cisco Networking Academy (2023–2025)**  
+  - CCNA (Cisco Certified Network Associate)  
+  - Junior Cybersecurity Analyst Career Path  
+  - Introduction to Cyber Security  
+
+- 🤖 **Artificial Intelligence**  
+  - IBM – *AI Fundamentals* (2025)  
+  - ALX – *AI Starter Kit* (2025)  
+
+- 📊 **DataCamp (2025)**  
+  - Introduction to Excel  
+  - Introduction to Power Query  
+  - Introduction to SQL / SQL Server  
+  - Introduction to Statistics  
+
+- 🌐 **Front-End Web Development (Innovation Mastermind, 2025)**  
+  - Built a responsive multi-page website using *HTML, CSS, JavaScript, Bootstrap*  
+
+- 🖥️ **Virtualization & Hypervisors (Silicon Oasis, 2023)**  
+  - Practical training on virtualization infrastructure & management  
 
 ---
 
 ## 🏆 Achievements
-- 🥇 Best Member Award – Front-End Development (2025)  
-- 🎖️ Ranked 4th in IT Department with 95.14%  
-- 👨‍💻 Led Graduation Project Team (Life Share Donation System)  
+- 🥇 **Best Member Award – Front-End Web Development (Innovation Mastermind, 2025)**  
+  - Awarded for outstanding performance & active participation  
+  - Delivered a responsive website project with clean UI & interactive features  
+
+- 🎖️ **Academic Excellence (2024)**  
+  - Ranked 4th in IT Department with **95.14%**  
+
+- 👨‍💻 **Graduation Project Leadership (2024)**  
+  - Led a 6-member team to develop **Life Share Donation System** (donation platform)  
 
 ---
 
@@ -65,7 +88,7 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="mailto:Mahmoudabdellateifhamza@gmail.com">
+  <a href="mailto:mahmoudabdellateifhamza@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/eng-mahmoud-abdellateif-hamza/">
@@ -76,6 +99,9 @@
   </a>
 </p>
 
+---
+
+⭐ *“Transforming data into insights one dashboard at a time.”*
 
 <!--
 **mahmoudabdellateifhamza/mahmoudabdellateifhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
