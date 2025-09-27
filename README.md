@@ -1,5 +1,5 @@
 
-#👋 Hi, I'm Mahmoud Abdellateif Hamza  
+👋 Hi, I'm Mahmoud Abdellateif Hamza  
 
 🎓 **Information Technology Student @ Assiut International Technological University (2024 – 2028)**  
 💻 Passionate about **Cybersecurity, Data Analysis, Programming, and Web Development**  
