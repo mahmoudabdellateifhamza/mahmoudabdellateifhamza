@@ -1,5 +1,7 @@
 <!-- Banner -->
-
+<p align="center">
+  <img src="ChatGPT Image Sep 27, 2025, 06_27_38 AM.png" alt="Developer Illustration" width="300"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Mahmoud Abdellateif</h1>
 <h3 align="center">🚀 IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer</h3>
