@@ -1,77 +1,81 @@
-<!-- Banner / صورة رسومية -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/7vYh5Rx/coding-guy.gif" alt="Coding Guy" width="300"/>
+  <img src="https://i.ibb.co/3RRLxYd/coder-banner.gif" alt="Coding Banner" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Mahmoud Abdellateif </h1>
-<h3 align="center">🚀 Information Technology Student | Cybersecurity Enthusiast | Data Analyst</h3>
+<h1 align="center">Hi 👋, I'm Mahmoud Abdellateif Hamza</h1>
+<h3 align="center">🚀 IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student at **Assiut International Technological University (2024 – 2028)**  
-- 💻 Passionate about **Cybersecurity, Data Analysis, and Web Development**  
-- 🌱 Currently training with **Digital Egypt Pioneers (DEPI)** in the Data Analysis track  
-- 🔭 Always learning & building new projects to solve real-world problems  
+- 🎓 Studying **Information Technology @ AITU (2024 – 2028)**  
+- 🔐 Passionate about **Cybersecurity, Networking, and Data Analysis**  
+- 📊 Skilled in **Power BI, Excel, SQL** & building dashboards  
+- 🌐 Full-Stack Web Developer (**HTML, CSS, JS, PHP, MySQL, C#**)  
+- 🚀 Currently training with **Digital Egypt Pioneers (DEPI)**  
+- 💡 Motto: *"Always learning, always building, always growing."*  
 
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,cs,git,github,py" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,azure,vscode,figma,powershell" />
 </p>
 
 ---
 
-## 📂 Projects
-- 🌟 **Life Share Donation System** – Full-stack web app for donations (Team Leader)  
-- 🍫 **Chocolate Sales Dashboard** – Excel KPIs & sales trends  
-- 📺 **Wednesday S1 Dashboard** – Netflix-inspired Power BI analysis  
-- 🏋️ **Fitness Tracker Dashboard** – Interactive health insights  
-- ⚽ **Football Performance Dashboard** – Man City season analysis  
-- 🏍️ **MotoGP Analysis Dashboard** – Championship analytics  
+## 📂 Featured Projects
+- 🌟 **Life Share Donation System** → Full-stack donation web app *(Team Leader)*  
+- 🍫 **Chocolate Sales Dashboard** → Excel KPI & trend analytics  
+- 📺 **Wednesday Dashboard** → Netflix-inspired Power BI visualization  
+- 🏋️ **Fitness Tracker** → Interactive activity dashboard  
+- ⚽ **Football Performance (Man City)** → Sports analytics with Power BI  
+- 🏍️ **MotoGP Analysis** → Strategic race insights  
 
 ---
 
 ## 🎓 Certifications
-- Cisco CCNA, Junior Cybersecurity Analyst, Cybersecurity Fundamentals  
-- AI Fundamentals (IBM), AI Starter Kit (ALX)  
-- Intro to Excel & Statistics (DataCamp)  
-- Front-End Development (Innovation Mastermind)  
-- Virtualization & Hypervisors (Silicon Oasis)  
+- 🛡️ **Cisco** → CCNA, Junior Cybersecurity Analyst, Cybersecurity Fundamentals  
+- 🤖 **AI** → IBM AI Fundamentals, ALX AI Starter Kit  
+- 📊 **DataCamp** → Intro to Excel, Intro to Statistics  
+- 🌐 **Front-End Web Development** → Innovation Mastermind  
+- 🖥️ **Virtualization** → Silicon Oasis Smart Village  
 
 ---
 
 ## 🏆 Achievements
-- 🥇 *Best Member* Award – Front-End Web Development (2025)  
-- 🎖️ Ranked **4th place** in IT department (95.14%)  
+- 🥇 Best Member Award – Front-End Development (2025)  
+- 🎖️ Ranked 4th in IT Department with 95.14%  
 - 👨‍💻 Led Graduation Project Team (Life Share Donation System)  
 
 ---
 
-## 📫 Let's Connect!
+## 📊 GitHub Stats
 <p align="center">
-  <a href="mailto:Mahmoudabdellateifhamza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/eng-mahmoud-abdellateif-hamza/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-⭐️ *"Always learning, always building, always growing."*  
+## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:Mahmoudabdellateifhamza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eng-mahmoud-abdellateif-hamza/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 
 <!--
 **mahmoudabdellateifhamza/mahmoudabdellateifhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
