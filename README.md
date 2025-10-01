@@ -30,6 +30,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🌟 **Life Share Donation System** | Full-stack web app for Sedra Association enabling donations of unused devices, clothes & accessories. Led a 6-member team, designed ERD & integrated database. | HTML, CSS, JS, Bootstrap, PHP, MySQL |
+| ⌚ **Luxury Watch Market Dashboard (2023)** | Interactive dashboard analyzing luxury watch sales: market trends, customer segments & top-selling brands. | Power BI |
 | 🍫 **Chocolate Sales Dashboard** | Interactive Excel dashboard analyzing sales data: KPIs, regional trends, order status. | Excel (Pivot Tables, Charts, Data Cleaning) |
 | 📺 **Wednesday Dashboard** | Power BI dashboard analyzing Netflix's “Wednesday” series: character screen time, episode performance, timelines. | Power BI |
 | 🏋️ **Fitness Tracker Dashboard** | Interactive dashboard to analyze fitness activities, key metrics, and mood trends. | Power BI |
