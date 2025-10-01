@@ -16,12 +16,25 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,csharp,git,github,py" />
+
+  <!-- 🌐 Web Development -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,sql,linux,azure,vscode" />
+
+  <!-- 🖥️ Programming & Tools -->
+  <img src="https://skillicons.dev/icons?i=csharp,py,git,github,vscode" />
+  <br/>
+
+  <!-- 📊 Data Analysis -->
+  <img src="https://skillicons.dev/icons?i=excel,powerbi,sql" />
+  <br/>
+
+  <!-- 🔐 Networking & Security -->
+  <img src="https://skillicons.dev/icons?i=linux,azure" />
 </p>
+
 
 ---
 
