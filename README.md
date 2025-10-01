@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql" />
   <br/>
 
-  <!-- 🖥️ Programming & Tools -->
+  <!-- 🖥️ Programming -->
   <img src="https://skillicons.dev/icons?i=csharp,py,git,github,vscode" />
   <br/>
 
@@ -31,9 +31,16 @@
   <img src="https://skillicons.dev/icons?i=excel,powerbi,sql" />
   <br/>
 
-  <!-- 🔐 Networking & Security -->
-  <img src="https://skillicons.dev/icons?i=linux,azure" />
+  <!-- 🌐 Networking -->
+  <img src="https://skillicons.dev/icons?i=linux,azure" />  
+  <br/>
+
+  <!-- 🔐 Cybersecurity -->
+  <img src="https://img.shields.io/badge/Cybersecurity-%23000000.svg?&style=for-the-badge&logo=hackthebox&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Networking-%230087C1.svg?&style=for-the-badge&logo=cisco&logoColor=white"/>  
+
 </p>
+
 
 
 ---
