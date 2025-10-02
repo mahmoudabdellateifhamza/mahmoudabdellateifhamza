@@ -16,30 +16,37 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
+
 <p align="center">
 
   <!-- 🌐 Web Development -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql" />
-  <br/>
+  <strong>Web Development</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql" alt="web icons"/><br/><br/>
 
-  <!-- 🖥️ Programming -->
-  <img src="https://skillicons.dev/icons?i=csharp,py,git,github,vscode" />
-  <br/>
+  <!-- 🖥️ Programming & Frameworks -->
+  <strong>Programming / Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=csharp,py" alt="csharp python"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools"/><br/><br/>
 
   <!-- 📊 Data Analysis -->
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,sql" />
-  <br/>
+  <strong>Data Analysis</strong><br/>
+  <img src="https://skillicons.dev/icons?i=excel,powerbi,tableau" alt="excel powerbi tableau"/>
+  <img src="https://img.shields.io/badge/Power%20Query-%23007ACC.svg?&style=for-the-badge&logo=microsoft-powerquery&logoColor=white" alt="power query"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlserver" alt="sql engines"/><br/><br/>
 
-  <!-- 🌐 Networking -->
-  <img src="https://skillicons.dev/icons?i=linux,azure" />  
-  <br/>
+  <!-- 🌐 Networking & Cloud -->
+  <strong>Networking & Cloud</strong><br/>
+  <img src="https://skillicons.dev/icons?i=linux,azure" alt="linux azure"/><br/><br/>
 
   <!-- 🔐 Cybersecurity -->
-  <img src="https://img.shields.io/badge/Cybersecurity-%23000000.svg?&style=for-the-badge&logo=hackthebox&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Networking-%230087C1.svg?&style=for-the-badge&logo=cisco&logoColor=white"/>  
+  <strong>Cybersecurity / Tools</strong><br/>
+  <img src="https://img.shields.io/badge/Kali_Linux-%23000.svg?&style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali"/>
+  <img src="https://img.shields.io/badge/Wireshark-%23007ACC.svg?&style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-%23DD4814.svg?&style=for-the-badge&logo=burpsuite&logoColor=white" alt="burp"/>
 
 </p>
+
 
 
 
