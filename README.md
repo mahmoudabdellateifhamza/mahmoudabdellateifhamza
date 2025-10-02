@@ -43,7 +43,6 @@
   <strong>Cybersecurity / Tools</strong><br/>
   <img src="https://img.shields.io/badge/Kali_Linux-%23000.svg?&style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali"/>
   <img src="https://img.shields.io/badge/Wireshark-%23007ACC.svg?&style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-%23DD4814.svg?&style=for-the-badge&logo=burpsuite&logoColor=white" alt="burp"/>
 
 </p>
 
