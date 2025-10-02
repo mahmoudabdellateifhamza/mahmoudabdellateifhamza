@@ -21,30 +21,33 @@
 <p align="center">
 
   <!-- 🌐 Web Development -->
-  <strong>Web Development</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql" alt="web icons"/><br/><br/>
+  <strong>🌐 Web Development</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql" alt="Web Development"/><br/><br/>
 
-  <!-- 🖥️ Programming & Frameworks -->
-  <strong>Programming / Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=csharp,py" alt="csharp python"/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools"/><br/><br/>
+  <!-- 🖥️ Programming / Languages -->
+  <strong>🖥️ Programming / Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=csharp,py" alt="C# Python"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/><br/><br/>
 
   <!-- 📊 Data Analysis -->
-  <strong>Data Analysis</strong><br/>
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,tableau" alt="excel powerbi tableau"/>
-  <img src="https://img.shields.io/badge/Power%20Query-%23007ACC.svg?&style=for-the-badge&logo=microsoft-powerquery&logoColor=white" alt="power query"/>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver" alt="sql engines"/><br/><br/>
+  <strong>📊 Data Analysis</strong><br/>
+  <img src="https://skillicons.dev/icons?i=excel,powerbi,tableau" alt="Excel PowerBI Tableau"/>
+  <img src="https://img.shields.io/badge/Power%20Query-%23007ACC.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL"/><br/><br/>
 
   <!-- 🌐 Networking & Cloud -->
-  <strong>Networking & Cloud</strong><br/>
-  <img src="https://skillicons.dev/icons?i=linux,azure" alt="linux azure"/><br/><br/>
+  <strong>🌐 Networking & Cloud</strong><br/>
+  <img src="https://skillicons.dev/icons?i=linux,azure" alt="Linux Azure"/>
+  <img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/><br/><br/>
 
   <!-- 🔐 Cybersecurity -->
-  <strong>Cybersecurity / Tools</strong><br/>
-  <img src="https://img.shields.io/badge/Kali_Linux-%23000.svg?&style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali"/>
-  <img src="https://img.shields.io/badge/Wireshark-%23007ACC.svg?&style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
+  <strong>🔐 Cybersecurity / Tools</strong><br/>
+  <img src="https://img.shields.io/badge/Kali_Linux-%23000.svg?&style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Wireshark-%23007ACC.svg?&style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+
 
 </p>
+
 
 
 
