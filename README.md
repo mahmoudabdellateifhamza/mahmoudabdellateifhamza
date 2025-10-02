@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mahmoud Abdellateif</h1>
-<h3 align="center">🚀 IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer</h3>
+<h3 align="center">🚀 IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer | Network </h3>
 
 ---
 
