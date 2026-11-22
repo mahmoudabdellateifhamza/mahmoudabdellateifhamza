@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud Abdellateif</h1>
 <h3 align="center">🚀 IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer | Network </h3>
-<img width="717" height="224" alt="GitHub Runner_ Pixel Quest Victory" src="https://github.com/user-attachments/assets/dd914046-875e-4598-996f-001718e571e6" />
+<img width="1000" height="300" alt="GitHub Runner_ Pixel Quest Victory" src="https://github.com/user-attachments/assets/dd914046-875e-4598-996f-001718e571e6" />
 ---
 
 ## 👨‍💻 About Me
