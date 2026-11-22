@@ -17,7 +17,7 @@
 
 ---
 
-<img width="840" height="784" alt="tech-stack-minecraft" src="https://github.com/user-attachments/assets/1054f323-31e5-4eda-920c-6545b62ed023" />
+<img width="640" height="484" alt="tech-stack-minecraft" src="https://github.com/user-attachments/assets/1054f323-31e5-4eda-920c-6545b62ed023" />
 
 
 ---
