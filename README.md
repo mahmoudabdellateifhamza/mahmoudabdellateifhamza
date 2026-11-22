@@ -1,8 +1,8 @@
 <!-- Banner -->
 
 
-<h1 align="center">Hi 👋, I'm Mahmoud Abdellateif</h1>
-<h3 align="center">🚀 IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer | Network </h3>
+<h1 align="center">Hi, I'm Mahmoud Abdellateif</h1>
+<h3 align="center">IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer | Network </h3>
 <p align="center">
 <img width="400" height="400" alt="GitHub Night Runner Animation" src="https://github.com/user-attachments/assets/1e6a49c2-3ac0-4c78-ac44-896702fddffe" />
 </p>
