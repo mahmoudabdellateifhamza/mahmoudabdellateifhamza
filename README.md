@@ -111,7 +111,7 @@
     <img src="https://github.com/user-attachments/assets/a067c100-99e4-4d85-aca9-f202898d371a" alt="LinkedIn" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/mahmoudabdellateifhamza">
     <img src="https://github.com/user-attachments/assets/83653ba8-a352-4aef-a137-b74db8337d51" alt="GitHub" height="60" />
   </a>
 </p>
