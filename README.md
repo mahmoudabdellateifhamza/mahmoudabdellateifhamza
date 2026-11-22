@@ -60,8 +60,8 @@
 
 ---
 
+<img width="840" height="990" alt="achievements-minecraft" src="https://github.com/user-attachments/assets/1b5af665-0286-4562-8a46-2b5ed1ec318f" />
 
-<img width="800" height="330" alt="achievements" src="https://github.com/user-attachments/assets/318f36b8-3920-40be-beff-4120a6d1b010" />
 
 
 ---
