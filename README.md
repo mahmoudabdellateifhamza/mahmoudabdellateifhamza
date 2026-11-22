@@ -17,9 +17,9 @@
 - 💡 Motto: *"Always learning, always building, always growing."*
 
 ---
-
-<img width="640" height="484" alt="tech-stack-minecraft" src="https://github.com/user-attachments/assets/1054f323-31e5-4eda-920c-6545b62ed023" />
-
+<p align="center">
+<img width="500" height="500" alt="tech-stack-minecraft" src="https://github.com/user-attachments/assets/1054f323-31e5-4eda-920c-6545b62ed023" />
+</p>
 
 ---
 
