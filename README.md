@@ -4,24 +4,18 @@
 <p align="center">
 <img width="970" height="280" alt="my-runner-cartoon (1)" src="https://github.com/user-attachments/assets/d8e0e082-eef1-4d30-a545-badc06f6fa03" />
 </p>
-
 ---
 <p align="center">
 <img width="500" height="300" alt="Neon Pixel Certification Dashboard" src="https://github.com/user-attachments/assets/5c179ef3-9c76-4817-bf69-f084b392ccd2" />
 </p>
-
 ---
 <p align="center">
 <img width="500" height="500" alt="tech-stack-minecraft" src="https://github.com/user-attachments/assets/1054f323-31e5-4eda-920c-6545b62ed023" />
 </p>
-
 ---
 <p align="center">
 <img width="500" height="500" alt="achievements-minecraft" src="https://github.com/user-attachments/assets/1b5af665-0286-4562-8a46-2b5ed1ec318f" />
 </p>
----
-
-
 ---
 <img width="460" height="90" alt="connect-with-me-dark" src="https://github.com/user-attachments/assets/fe500b75-536c-43cf-b68b-c9fc839a7c19" />
 
@@ -39,12 +33,6 @@
     <img src="https://github.com/user-attachments/assets/83653ba8-a352-4aef-a137-b74db8337d51" alt="GitHub" height="60" />
   </a>
 </p>
-
-
-
-
-
-
 <!--
 **mahmoudabdellateifhamza/mahmoudabdellateifhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
