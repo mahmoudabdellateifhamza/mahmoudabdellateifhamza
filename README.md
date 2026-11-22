@@ -31,11 +31,6 @@
 | ⚽ **Football Performance Dashboard** | Analytics for Manchester City’s 2024/25 season: win rates, scoring trends, squad composition. | Power BI |
 | 🏍️ **MotoGP Analysis Dashboard** | Dashboard analyzing MotoGP championship data: performance metrics & strategic insights. | Power BI |
 
----
-
-<p align="center">
-<img width="500" height="300" alt="Neon Pixel Certification Dashboard" src="https://github.com/user-attachments/assets/5c179ef3-9c76-4817-bf69-f084b392ccd2" />
-</p>
 
 ---
 <p align="center">
