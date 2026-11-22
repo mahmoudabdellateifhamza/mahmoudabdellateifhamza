@@ -37,27 +37,9 @@
 
 ---
 
-## 🎓 Certifications
-- 🛡️ **Cisco Networking Academy (2023–2025)**  
-  - CCNA (Cisco Certified Network Associate)  
-  - Junior Cybersecurity Analyst Career Path  
-  - Introduction to Cyber Security  
-
-- 🤖 **Artificial Intelligence**  
-  - IBM – *AI Fundamentals* (2025)  
-  - ALX – *AI Starter Kit* (2025)  
-
-- 📊 **DataCamp (2025)**  
-  - Introduction to Excel  
-  - Introduction to Power Query  
-  - Introduction to SQL / SQL Server  
-  - Introduction to Statistics  
-
-- 🌐 **Front-End Web Development (Innovation Mastermind, 2025)**  
-  - Built a responsive multi-page website using *HTML, CSS, JavaScript, Bootstrap*  
-
-- 🖥️ **Virtualization & Hypervisors (Silicon Oasis, 2023)**  
-  - Practical training on virtualization infrastructure & management  
+<p align="center">
+<img width="747" height="482" alt="Neon Pixel Certification Dashboard" src="https://github.com/user-attachments/assets/5c179ef3-9c76-4817-bf69-f084b392ccd2" />
+</p>
 
 ---
 <p align="center">
