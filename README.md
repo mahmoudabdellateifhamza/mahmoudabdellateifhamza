@@ -60,9 +60,9 @@
   - Practical training on virtualization infrastructure & management  
 
 ---
-
-<img width="640" height="590" alt="achievements-minecraft" src="https://github.com/user-attachments/assets/1b5af665-0286-4562-8a46-2b5ed1ec318f" />
-
+<p align="center">
+<img width="500" height="500" alt="achievements-minecraft" src="https://github.com/user-attachments/assets/1b5af665-0286-4562-8a46-2b5ed1ec318f" />
+</p>
 
 
 ---
