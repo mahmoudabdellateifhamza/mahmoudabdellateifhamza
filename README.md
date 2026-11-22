@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud Abdellateif</h1>
 <h3 align="center">🚀 IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer | Network </h3>
-<img width="1000" height="375" alt="Pixel Runner_ IT Expert Dash" src="https://github.com/user-attachments/assets/3d923d37-0988-438c-97f7-3a3de03e93a9" />
+<img width="1000" height="275" alt="Pixel Runner_ IT Expert Dash" src="https://github.com/user-attachments/assets/3d923d37-0988-438c-97f7-3a3de03e93a9" />
 
 ---
 
