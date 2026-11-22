@@ -8,13 +8,9 @@
 </p>
 
 
-## 👨‍💻 About Me
-- 🎓 Studying **Information Technology @ AITU (2024 – 2028)**
-- 🔐 Passionate about **Cybersecurity, Networking, and Data Analysis**
-- 📊 Skilled in **Excel, Power BI, SQL, Data Cleaning & Dashboards**
-- 🌐 Full-Stack Web Developer (**HTML, CSS, JS, PHP, MySQL, C#**)
-- 🚀 Training with **Digital Egypt Pioneers (DEPI)** in the Data Analysis track
-- 💡 Motto: *"Always learning, always building, always growing."*
+<p align="center">
+<img width="500" height="300" alt="Neon Pixel Certification Dashboard" src="https://github.com/user-attachments/assets/5c179ef3-9c76-4817-bf69-f084b392ccd2" />
+</p>
 
 ---
 <p align="center">
