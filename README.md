@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud Abdellateif</h1>
 <h3 align="center">🚀 IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer | Network </h3>
-<img width="539" height="720" alt="GitHub Night Runner Animation" src="https://github.com/user-attachments/assets/1e6a49c2-3ac0-4c78-ac44-896702fddffe" />
+<img width="539" height="500" alt="GitHub Night Runner Animation" src="https://github.com/user-attachments/assets/1e6a49c2-3ac0-4c78-ac44-896702fddffe" />
 ---
 
 ## 👨‍💻 About Me
