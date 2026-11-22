@@ -93,7 +93,7 @@
 
 ---
 
-## 🏆 Achievements
+
 <img width="800" height="330" alt="achievements" src="https://github.com/user-attachments/assets/318f36b8-3920-40be-beff-4120a6d1b010" />
 
 
