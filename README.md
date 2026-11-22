@@ -1,6 +1,4 @@
 <!-- Banner -->
-
-
 <h1 align="center">Hi, I'm Mahmoud Abdellateif</h1>
 <h3 align="center">IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer | Network </h3>
 <p align="center">
@@ -18,26 +16,9 @@
 </p>
 
 ---
-
-## 📂 Featured Projects  
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌟 **Life Share Donation System** | Full-stack web app for Sedra Association enabling donations of unused devices, clothes & accessories. Led a 6-member team, designed ERD & integrated database. | HTML, CSS, JS, Bootstrap, PHP, MySQL |
-| ⌚ **Luxury Watch Market Dashboard (2023)** | Interactive dashboard analyzing luxury watch sales: market trends, customer segments & top-selling brands. | Power BI |
-| 🍫 **Chocolate Sales Dashboard** | Interactive Excel dashboard analyzing sales data: KPIs, regional trends, order status. | Excel (Pivot Tables, Charts, Data Cleaning) |
-| 📺 **Wednesday Dashboard** | Power BI dashboard analyzing Netflix's “Wednesday” series: character screen time, episode performance, timelines. | Power BI |
-| 🏋️ **Fitness Tracker Dashboard** | Interactive dashboard to analyze fitness activities, key metrics, and mood trends. | Power BI |
-| ⚽ **Football Performance Dashboard** | Analytics for Manchester City’s 2024/25 season: win rates, scoring trends, squad composition. | Power BI |
-| 🏍️ **MotoGP Analysis Dashboard** | Dashboard analyzing MotoGP championship data: performance metrics & strategic insights. | Power BI |
-
-
----
 <p align="center">
 <img width="500" height="500" alt="achievements-minecraft" src="https://github.com/user-attachments/assets/1b5af665-0286-4562-8a46-2b5ed1ec318f" />
 </p>
-
-
 ---
 
 
