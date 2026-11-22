@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-<img width="400" height="400" alt="Neon Pixel Certification Dashboard" src="https://github.com/user-attachments/assets/5c179ef3-9c76-4817-bf69-f084b392ccd2" />
+<img width="500" height="400" alt="Neon Pixel Certification Dashboard" src="https://github.com/user-attachments/assets/5c179ef3-9c76-4817-bf69-f084b392ccd2" />
 </p>
 
 ---
