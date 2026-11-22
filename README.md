@@ -104,7 +104,8 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="mailto:mahmoudabdellateifhamza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+<img width="447" height="447" alt="images__1_-removebg-preview" src="https://github.com/user-attachments/assets/8b39e256-67d4-440e-adce-c7eea1fe3b79" />
+
   </a>
   
   <a href="https://www.linkedin.com/in/eng-mahmoud-abdellateif-hamza/">
