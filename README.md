@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud Abdellateif</h1>
 <h3 align="center">🚀 IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer | Network </h3>
+<img width="678" height="252" alt="Cyber Runner_ IT Expert Dash" src="https://github.com/user-attachments/assets/28c58580-cd70-4041-bc0c-9e3ac3231605" />
 
 ---
 
