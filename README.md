@@ -17,40 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-  <!-- 🌐 Web Development -->
-  <strong>🌐 Web Development</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql" alt="Web Development"/><br/><br/>
-
-  <!-- 🖥️ Programming / Languages -->
-  <strong>🖥️ Programming / Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=csharp,py" alt="C# Python"/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/><br/><br/>
-
-  <!-- 📊 Data Analysis -->
-  <strong>📊 Data Analysis</strong><br/>
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,tableau" alt="Excel PowerBI Tableau"/>
-  <img src="https://img.shields.io/badge/Power%20Query-%23007ACC.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL"/><br/><br/>
-
-  <!-- 🌐 Networking & Cloud -->
-  <strong>🌐 Networking & Cloud</strong><br/>
-  <img src="https://skillicons.dev/icons?i=linux,azure" alt="Linux Azure"/>
-  <img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/><br/><br/>
-
-  <!-- 🔐 Cybersecurity -->
-  <strong>🔐 Cybersecurity / Tools</strong><br/>
-  <img src="https://img.shields.io/badge/Kali_Linux-%23000.svg?&style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Wireshark-%23007ACC.svg?&style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-
-
-</p>
-
-
-
+<img width="840" height="784" alt="tech-stack-minecraft" src="https://github.com/user-attachments/assets/1054f323-31e5-4eda-920c-6545b62ed023" />
 
 
 ---
