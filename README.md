@@ -108,11 +108,13 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/eng-mahmoud-abdellateif-hamza/">
-    <img src="https://github.com/user-attachments/assets/3c8e08ed-57b9-450e-a290-c9883b10969b" alt="LinkedIn" height="60" />
+  <img width="500" height="500" alt="linkedin--v2-removebg-preview" src="https://github.com/user-attachments/assets/a067c100-99e4-4d85-aca9-f202898d371a" alt="Email" height="60" />
+
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="60" />
+   <img width="500" height="500" alt="github--v1-removebg-preview" src="https://github.com/user-attachments/assets/83653ba8-a352-4aef-a137-b74db8337d51" alt="Email" height="60">
+
   </a>
 </p>
 
