@@ -6,7 +6,7 @@
 <p align="center">
 <img width="400" height="400" alt="GitHub Night Runner Animation" src="https://github.com/user-attachments/assets/1e6a49c2-3ac0-4c78-ac44-896702fddffe" />
 </p>
----
+
 
 ## 👨‍💻 About Me
 - 🎓 Studying **Information Technology @ AITU (2024 – 2028)**
