@@ -94,15 +94,8 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 **Best Member Award – Front-End Web Development (Innovation Mastermind, 2025)**  
-  - Awarded for outstanding performance & active participation  
-  - Delivered a responsive website project with clean UI & interactive features  
+<img width="800" height="330" alt="achievements" src="https://github.com/user-attachments/assets/318f36b8-3920-40be-beff-4120a6d1b010" />
 
-- 🎖️ **Academic Excellence (2024)**  
-  - Ranked 4th in IT Department with **95.14%**  
-
-- 👨‍💻 **Graduation Project Leadership (2024)**  
-  - Led a 6-member team to develop **Life Share Donation System** (donation platform)  
 
 ---
 
