@@ -68,7 +68,7 @@
 
 
 
-<img width="760" height="130" alt="connect-with-me-dark" src="https://github.com/user-attachments/assets/fe500b75-536c-43cf-b68b-c9fc839a7c19" />
+<img width="560" height="130" alt="connect-with-me-dark" src="https://github.com/user-attachments/assets/fe500b75-536c-43cf-b68b-c9fc839a7c19" />
 
 
 <p align="center">
