@@ -3,8 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud Abdellateif</h1>
 <h3 align="center">🚀 IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer | Network </h3>
-<img width="1000" height="280" alt="my-runner-cartoon" src="https://github.com/user-attachments/assets/61e30bd3-3cb4-474b-a3ec-462998e38ed1" />
-
+<img width="940" height="320" alt="my-runner-cartoon (1)" src="https://github.com/user-attachments/assets/e673eecb-65c2-4f87-bf57-d7c4ba8f27e3" />
 
 ---
 
