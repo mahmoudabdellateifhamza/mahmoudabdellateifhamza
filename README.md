@@ -104,15 +104,15 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="mailto:mahmoudabdellateifhamza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://github.com/user-attachments/assets/8b39e256-67d4-440e-adce-c7eea1fe3b79" alt="Email" height="60" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/eng-mahmoud-abdellateif-hamza/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://github.com/user-attachments/assets/3c8e08ed-57b9-450e-a290-c9883b10969b" alt="LinkedIn" height="60" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="60" />
   </a>
 </p>
 
