@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Mahmoud Abdellateif</h1>
 <h3 align="center">IT Student | Cybersecurity Enthusiast | Data Analyst | Web Developer | Network </h3>
 <p align="center">
-<img width="400" height="400" alt="GitHub Night Runner Animation" src="https://github.com/user-attachments/assets/1e6a49c2-3ac0-4c78-ac44-896702fddffe" />
+<img width="970" height="280" alt="my-runner-cartoon (1)" src="https://github.com/user-attachments/assets/d8e0e082-eef1-4d30-a545-badc06f6fa03" />
 </p>
 
 ---
