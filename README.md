@@ -101,7 +101,8 @@
 
 
 
-## 📫 Connect with Me
+<img width="760" height="150" alt="connect-with-me" src="https://github.com/user-attachments/assets/2ea2f189-b831-43fc-9ced-5192f0143212" />
+
 <p align="center">
   <a href="mailto:mahmoudabdellateifhamza@gmail.com">
     <img src="https://github.com/user-attachments/assets/8b39e256-67d4-440e-adce-c7eea1fe3b79" alt="Email" height="60" />
