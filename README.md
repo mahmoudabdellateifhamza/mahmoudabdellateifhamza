@@ -107,7 +107,7 @@
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/eng-mahmoud-abdellateif-hamza/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img width="256" height="256" alt="2673777" src="https://github.com/user-attachments/assets/3c8e08ed-57b9-450e-a290-c9883b10969b" />
   </a>
   <a href="https://github.com/USERNAME">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
