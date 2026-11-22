@@ -42,7 +42,7 @@
 
 ---
 
-⭐ *“Transforming data into insights one dashboard at a time.”*
+
 
 
 <!--
